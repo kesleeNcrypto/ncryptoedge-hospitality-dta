@@ -1,0 +1,22 @@
+# Assessment matrix
+
+This is a blank planning and tracking matrix, not an assessment result. Tailor controls, scope, benchmarks, status, and risk ratings to the engagement. Use `TBD` until verified; link evidence using IDs from `evidence/evidence-register.csv`.
+
+| ID | Domain | Assessment question / control objective | Reference | Status | Evidence IDs | Finding / risk | Owner | Target date |
+|---|---|---|---|---|---|---|---|---|
+| INF-01 | Infrastructure | Is there a current inventory of in-scope assets, owners, criticality, and dependencies? | ISO/IEC 27001; internal policy | TBD | | | | |
+| INF-02 | Infrastructure | Are administrative access and privileged identities approved, protected, and periodically reviewed? | ISO/IEC 27001; internal policy | TBD | | | | |
+| INF-03 | Infrastructure | Are network boundaries and remote/vendor access documented and appropriately restricted? | ISO/IEC 27001; internal policy | TBD | | | | |
+| INF-04 | Infrastructure | Are vulnerabilities, patches, configuration changes, backups, and recovery tested and tracked? | ISO/IEC 27001; internal policy | TBD | | | | |
+| INF-05 | Infrastructure | Are critical hospitality services covered by incident response and continuity plans? | ISO/IEC 27001; internal policy | TBD | | | | |
+| APP-01 | Application security | Are guest-facing applications and APIs inventoried, owned, and subject to secure development practices? | OWASP ASVS/API | TBD | | | | |
+| APP-02 | Application security | Are authentication, authorization, session handling, and account recovery appropriate to risk? | OWASP ASVS/API | TBD | | | | |
+| APP-03 | Application security | Are dependencies, secrets, releases, and security defects managed through defined processes? | OWASP ASVS | TBD | | | | |
+| APP-04 | Application security | Are payment, booking, loyalty, and third-party integrations protected and monitored? | OWASP; contractual requirements | TBD | | | | |
+| DP-01 | Data protection | Are personal-data purposes, categories, systems, owners, and flows documented? | Applicable privacy laws | TBD | | | | |
+| DP-02 | Data protection | Are notices, rights handling, retention, deletion, and minimization implemented? | Applicable privacy laws | TBD | | | | |
+| DP-03 | Data protection | Are processors, international transfers, and third-party disclosures governed? | Applicable privacy laws | TBD | | | | |
+| DP-04 | Data protection | Are privacy incidents identified, assessed, escalated, and handled under applicable requirements? | Applicable privacy laws | TBD | | | | |
+| AI-01 | AI governance | Is there an inventory of AI-enabled features, providers, purposes, versions, and accountable owners? | EU AI Act where applicable; internal policy | TBD | | | | |
+| AI-02 | AI governance | Are role, risk classification, data use, human oversight, transparency, and monitoring assessed? | EU AI Act where applicable; internal policy | TBD | | | | |
+| AI-03 | AI governance | Are third-party AI terms, output validation, sensitive-data restrictions, and incident routes governed? | Contract; privacy/security policies | TBD | | | | |
